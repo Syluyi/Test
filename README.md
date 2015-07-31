@@ -1,2 +1,2 @@
 # Test
-To learn how to use git
+Will be used to learn how to use git
